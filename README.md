@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/archoda"><img src="https://api.daily.dev/devcards/v2/1k5YOS9DECaCTvS65xQrH.png?r=yl4&type=default" width="356" alt="Joe Mallory's Dev Card"/></a>
+<a href="https://app.daily.dev/archoda"><img src="https://api.daily.dev/devcards/v2/1k5YOS9DECaCTvS65xQrH.png?r=yl4&type=wide" width="652" alt="Joe Mallory's Dev Card"/></a>
 
 <!--
 **archoda/archoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
